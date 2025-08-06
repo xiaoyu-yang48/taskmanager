@@ -1,5 +1,5 @@
 //get task functions
-const Task = require('../models/task');
+const Task = require('../models/Task');
 const getTasks = async (req, res) => {
 
 try {
